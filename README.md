@@ -1,2 +1,2 @@
 # kaggle-intro-prog
-Kaggle Intro to Programming Course Notes
+kaggle intro to programming course notes
